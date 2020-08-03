@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.testhotspot.MainActivity" >
+
+    <item
+        android:id="@+id/action_one"
+        android:title="One"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_two"
+        android:title="Two"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_three"
+        android:title="Three"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_four"
+        android:title="Four"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_five"
+        android:title="Five"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_six"
+        android:title="Six"
+        app:showAsAction="never"/>
+
+</menu>

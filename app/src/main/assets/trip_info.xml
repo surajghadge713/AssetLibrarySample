@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="diffticket"></string>
+    <string name="BusServiceId">21</string>
+    <string name="bus_capacity">44</string>
+    <string name="conductor_name">m b chouga</string>
+    <string name="BusServiceName1">SHIVSHAHI</string>
+    <string name="route_unique_select">50630</string>
+    <string name="str_tripno1">M7924</string>
+    <string name="str_tostopname">SWARGATE, PUNE</string>
+    <string name="str_BusServiceCode">SS</string>
+    <string name="str_sourcestagename">KOLHAPUR</string>
+    <string name="PoliceWarrant"></string>
+    <string name="str_bustime1">23:30:00</string>
+    <string name="str_destinationstagename1">SWARGATE, PUNE</string>
+    <string name="from_stop_sequence">1</string>
+    <string name="language_selection">1</string>
+    <string name="waybill_no">50630</string>
+    <string name="str_destination_stage_short_name1">SWR</string>
+    <string name="str_sourcestagenamemarathi">कोल्हापूर</string>
+    <string name="busServiceNo">493593
+    </string>
+    <string name="str_FareType">F</string>
+    <string name="str_bustime">23:30:00</string>
+    <string name="last_stop">SWR</string>
+    <string name="BusServiceId1">21</string>
+    <string name="trip_ID">001</string>
+    <string name="str_routeno1">88645</string>
+    <string name="str_busno">1234</string>
+    <string name="str_sourcestagecode1">KLPCBS</string>
+    <string name="str_tripID1">M7924</string>
+    <string name="str_routetype">M</string>
+    <boolean name="luggage" value="false" />
+    <string name="BusServiceName">SHIVSHAHI</string>
+    <string name="Trip_ID">M7924</string>
+    <string name="str_destination_stage_short_name">SWR</string>
+    <string name="str_routetype1">M</string>
+    <string name="str_sourcestagecode">KLPCBS</string>
+    <string name="str_sourcestagename1">KOLHAPUR</string>
+    <string name="to_stop_sequence">12</string>
+    <string name="str_tostopnamemarathi">स्वारगेट पुणे</string>
+    <string name="str_BusServiceCode1">SS</string>
+    <string name="from">trip</string>
+    <string name="JailWarrant"></string>
+    <string name="direction"></string>
+    <string name="str_tripno">M7924</string>
+    <string name="doc_no"></string>
+    <string name="Route_ID">88645</string>
+    <string name="str_routeno">88645</string>
+    <set name="key" />
+    <boolean name="app_language" value="true" />
+    <string name="last_stop1">SWR</string>
+    <string name="str_FareType1">F</string>
+    <string name="start_stop1">KLPCBS</string>
+    <string name="start_stop">KLPCBS</string>
+    <string name="str_destinationstagename">SWARGATE, PUNE</string>
+</map>

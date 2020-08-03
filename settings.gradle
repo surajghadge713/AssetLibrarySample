@@ -1,0 +1,3 @@
+include ':AssetStorage'
+include ':app'
+rootProject.name = "SqliteDatabaseCopySample"
