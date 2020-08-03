@@ -1,6 +1,7 @@
-## AssetLibrarySample
-AssetLibrarySample
+## AssetStorage
+AssetStorage Library simplify developer task to copy Sqlite Database and Shared Preference file from assets to app internal storage at run time in few lines of code.
 
+## Gradle Setup
 
 To get a Git project into your build:
 
@@ -21,6 +22,6 @@ Step 2. Add the dependency
 
 ```
 dependencies {
-    implementation 'com.github.surajghadge713:AssetLibrarySample:Tag'
+    implementation 'com.github.surajghadge713:AssetLibrarySample:1.0'
 }
 ```
